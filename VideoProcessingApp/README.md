@@ -5,7 +5,7 @@
 
 ## דרישות
 - OpenCV
-- GStreamer (שימוש לא הושלם עדיין)
+- GStreamer
 - CMake
 
 ## התקנה
